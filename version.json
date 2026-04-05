@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "notes": [
+    "Fate Release",
+  ],
+  "pub_date": "2026-04-04T12:00:00Z",
+  "windows": {
+    "url": "https://github.com/kera-org/version-stuff/releases/download/v0.0.1/FateSetup.exe"
+  }
+}
